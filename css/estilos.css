@@ -13,6 +13,10 @@
 /* .servicios{
     display: flex;
 } */
+section{
+    border: 1px solid blue;
+    height: 150px;
+}
 .servicios>*{
     border: 1px solid red;
-}
+    }
